@@ -1,1 +1,4 @@
-
+secreto.txt
+*.exe
+*.bat
+*.com
